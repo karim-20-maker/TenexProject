@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TenexTest">
+    <test name="CreateNewService">
+        <classes>
+            <class name="CreateNewService"/>
+        </classes>
+    </test> <!-- Test -->
+    <test name="SendComments">
+        <classes>
+            <class name="SearchOnService"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
